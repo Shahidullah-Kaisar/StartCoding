@@ -1,0 +1,3 @@
+string getName(){
+            return accountHolder;
+        }
